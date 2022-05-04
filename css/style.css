@@ -46,7 +46,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  background-color: #006d77;
+  color: #006d77;
   padding: 10px 0px 10px 10px;
 }
 
@@ -153,7 +153,6 @@ img {
 }
 
 footer {
-  footer div {
   height: 100%;
   font-family: 'Merriweather', sans-serif;
   font-size: 14px;
