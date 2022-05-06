@@ -10,14 +10,14 @@ body {
 }
 
 header, footer {
-  background-color: #006d77;
+  background-color: #fcd5ce;
   text-align: left;
 /*  min-width: 500px; */
 }
 
 header {
   font-family: 'Merriweather', serif;
-  color: #abc4ff;
+  color: #fafaff;
   min-height: 100vh;
   display: flex;
 }
@@ -46,7 +46,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #006d77;
+  color: #ffb5a7;
   padding: 10px 0px 10px 10px;
 }
 
@@ -64,7 +64,7 @@ img {
 }
 
   .bio {
-    color: #b6ccfe;
+    color: #fafaff;
     font-size: 24px;
     font-family: 'Merriweather', serif;
   }
@@ -79,7 +79,7 @@ img {
     border-radius: 28px;
     border: 1px solid #ffffff;
     cursor: pointer;
-    color: #b6ccfe;
+    color: #fafaff;
     font-size: 20px;
     padding: 16px 31px;
     text-decoration: none;
@@ -102,11 +102,11 @@ img {
 }
 
 .a {
-  color: #00b09b;
+  color: #fcd5ce;
 }
 
 .c {
-  color: #00b09b;
+  color: #ffb5a7;
 }
 
 .time {
@@ -135,7 +135,7 @@ img {
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #d7e3fc;
+  color: #ffb5a7;
   padding: 10px 0px 10px 10px;
   border-top: 1px solid #4a4a4a;
 }
@@ -159,7 +159,7 @@ footer {
   display: flex;
   align-content: center;
   padding: 10px 20px;
-  color: rgba(255, 255, 255, 0.5);
+  color: #fafaff;
 }
 
 @media all and (max-width:700px) {
