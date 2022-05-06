@@ -10,14 +10,14 @@ body {
 }
 
 header, footer {
-  background-color: #fcd5ce;
+  background-color: #ffb5a7;
   text-align: left;
 /*  min-width: 500px; */
 }
 
 header {
   font-family: 'Merriweather', serif;
-  color: #fafaff;
+  color: #46494c;
   min-height: 100vh;
   display: flex;
 }
@@ -64,7 +64,7 @@ img {
 }
 
   .bio {
-    color: #fafaff;
+    color: #46494c;
     font-size: 24px;
     font-family: 'Merriweather', serif;
   }
@@ -79,7 +79,7 @@ img {
     border-radius: 28px;
     border: 1px solid #ffffff;
     cursor: pointer;
-    color: #fafaff;
+    color: #46494c;
     font-size: 20px;
     padding: 16px 31px;
     text-decoration: none;
@@ -95,14 +95,13 @@ img {
       top:1px;
   }
 
-
 .recipe {
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
   width: 100%;
 }
 
-.a {
-  color: #fcd5ce;
+a {
+  color: #ffb5a7;
 }
 
 .c {
@@ -135,7 +134,7 @@ img {
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #ffb5a7;
+  color: #46494c;
   padding: 10px 0px 10px 10px;
   border-top: 1px solid #4a4a4a;
 }
@@ -159,7 +158,7 @@ footer {
   display: flex;
   align-content: center;
   padding: 10px 20px;
-  color: #fafaff;
+  color: #46494c;
 }
 
 @media all and (max-width:700px) {
